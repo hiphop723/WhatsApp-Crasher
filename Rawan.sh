@@ -12,7 +12,6 @@ rm -rf browser
 rm -rf GBWhatsApp
 rm -rf BGMI
 rm -rf ApkEditor
-rm -rf download
 rm -rf Download
 rm -rf Instagram
 rm -rf bluetooth

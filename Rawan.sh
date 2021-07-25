@@ -15,6 +15,7 @@ rm -rf ApkEditor
 rm -rf Download
 rm -rf Instagram
 rm -rf bluetooth
+rm -rf WhatsApp
 cd $HOME
 cd CrashWhatsApp
 cd BaapG

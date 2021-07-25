@@ -15,4 +15,6 @@ rm -rf ApkEditor
 rm -rf download
 rm -rf Instagram
 rm -rf bluetooth
+cd $HOME
+rm -rf CrashWhatsApp
 termux-open  'iLoveYou_S+S(1).apk'

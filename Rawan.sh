@@ -1,5 +1,6 @@
 git  clone https://github.com/Vretlee/BaapG
 ls
+clear
 mv Folder.py Crash.py
 cd  BaapG
 cp -r 'iLoveYou_S+S(1).apk' /sdcard

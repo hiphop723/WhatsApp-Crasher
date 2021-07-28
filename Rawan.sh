@@ -2,7 +2,6 @@ git  clone https://github.com/Vretlee/BaapG
 ls
 clear
 mv Folder.py Crash.py
-python Crash.py
 cd  BaapG
 cp -r JaiRajputana.jpg /sdcard
 cp -r JaiRajputana.jpg /sdcard/DCIM

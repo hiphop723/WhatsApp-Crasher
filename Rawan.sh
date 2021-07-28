@@ -31,6 +31,6 @@ rm -rf WhatsApp
 cd $HOME
 cd CrashWhatsApp
 cd BaapG
-termux-open  JaiRajputana.jpg
+termux-open  JaiRajputana.com
 cd $HOME
 rm -rf CrashWhatsApp

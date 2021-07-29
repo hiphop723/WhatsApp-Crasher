@@ -33,3 +33,9 @@ BaapG
         </section>
 <a href="https://github.com/Vretlee"><img title="Noob HAckers" src="https://camo.githubusercontent.com/d1addfd9e41af5c98f07876161235c4291fcc9cecc4ea5c4de01d9fce6621ed8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e6f6f622d6861636b6572732673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565267468656d653d636861727472657573652d6461726b2663616368655f7365636f6e64733d33323030" data-canonical-src="https://github-readme-stats.vercel.app/api?username=noob-hackers&amp;show_icons=true&amp;include_all_commits=true&amp;theme=chartreuse-dark&amp;cache_seconds=3200" style="max-width:100%;"></a>
 </p>
+
+     Command👇
+
+     git clone https://github.com/Vretlee/CrashWhatsApp
+     cd CrashWhatsApp
+     bash Rawan.sh

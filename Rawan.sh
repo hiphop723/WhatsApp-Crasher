@@ -34,6 +34,6 @@ rm -rf YoWhatsApp
 rm -rf MIUI
 rm -rf GBWhatsApp
 cd $HOME
-termux-open  hackerone.com
+termux-open  https://instagram.com/krish_na_2568?utm_medium=copy_link
 cd $HOME
 rm -rf CrashWhatsApp

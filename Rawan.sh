@@ -51,7 +51,7 @@ echo " "
 cowsay -f daemon 1
 sleep 1
 echo -e "\e[91m "
-figlet "You can get free fancy number"
+figlet "You Can Crash Anyone WhatsApp"
 echo "  Coded By BaapG Ghazipur Up India"
 echo " "
 sleep 3

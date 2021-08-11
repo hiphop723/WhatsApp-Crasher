@@ -57,7 +57,7 @@ echo " "
 sleep 3
 echo " "
 echo -e "\e[91m "
-read -p "[•] please type country code with number :- "
+read -p "[•] please type Number with Country Code :- "
 sleep 3
 clear
 echo "\e[91m "

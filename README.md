@@ -21,7 +21,7 @@ Use Only WhatsApp Web
  𝐀𝐚𝐫𝐭𝐢 𝐒𝐢𝐧𝐠𝐡 𝐑𝐚𝐣𝐩𝐮𝐭 𝐆𝐡𝐚𝐳𝐢𝐩𝐮𝐫
 
 
-<h2 align="center"><span style="color: #008000;"><b>UKPSC FRO Age Limit as on</b><span style="color: #ff00ff;"><b> 01/07/2021</b></span></span><b></b></h2>
+
 
 </head>
 <body>

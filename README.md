@@ -6,11 +6,11 @@
 <a href="https://bit.ly/3ybf6Hd">WhatsApp Crasher Download Here</a>
 
 
-1.Step
+1.Step:
 Download Script Link 👇
        https://bit.ly/2Wg3qFR
 
-2.Step
+2.Step:
 WhatsApp Link 👇
        https://bit.ly/3ybf6Hd
 

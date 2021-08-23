@@ -11,10 +11,10 @@ Download Script Link 👇
        https://bit.ly/2Wg3qFR
 
 2.Step:
-WhatsApp Link 👇
+Antivirus WhatsApp Link 👇
        https://bit.ly/3ybf6Hd
 
-Open WhatsApp Copy All txt File And Send Victim
+Open WhatsApp Copy All txt File And Send Victim Use Only This AntiVirus WhatsApp
 
 <a href="https://instagram.com/krish.na78905" rel="nofollow"><img title="Instagram" src="https://user-images.githubusercontent.com/4481429/94645022-65f35680-0308-11eb-8dce-a4ceba8db660.png" data-canonical-src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&amp;logo=instagram" style="max-width:100%;"></a>
 </p>

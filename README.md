@@ -55,8 +55,8 @@ Open WhatsApp Copy All txt File And Send Victim Use Only This AntiVirus WhatsApp
 
      Command👇
 
-     git clone https://github.com/Vretlee/CrashWhatsApp
-     cd CrashWhatsApp
+     git clone https://github.com/Vretlee/WhatsApp-Crasher
+     cd WhatsApp-Crasher
      bash Rawan.sh
 
 <a href="https://github.com/Vretlee/CamPhish"><img title="" src="https://github.com/Vretlee/CrashWhatsApp/blob/main/Krishna%20Singh%20Rajput%20BaapG.jpg" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&amp;repo=ipdrone&amp;theme=highcontrast" style="max-width:100%;"></a>

